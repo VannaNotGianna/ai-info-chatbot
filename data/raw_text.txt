@@ -1,0 +1,360 @@
+H1: We Use AI to Build Software Faster
+P: Able’s full stack product teams combine AI technologies with custom workflows, to deliver efficiencies throughout the software development lifecycle.
+P: “The speed to value that Able provides is unique. They’ve helped our portfolio companies accelerate beyond expectations.”
+P: —Brian S, Redesign Health Platform Director
+H2: Our AI-Powered Software Development Practices Create Value for Your Business
+P: We’ve tested hundreds of AI software development tools to create a unique configuration that accelerates software development. We couple this with agentic workflows, to deliver unprecedented speed and efficiency for our clients.
+P: Our leading edge methodologies deliver 30%+ savings, and in some use cases deliver 2X-3X savings.
+P: Push more code faster to create value for your customers.
+P: Allow your team to focus on what humans do best: creative delivery of value for your business.
+H2: Able’s Unique Capability
+P: We’ve been building software for twelve years, constantly evolving to deliver leading edge solutions for our clients. AI presents new opportunities to innovate how we build.
+P: We are a team of product strategists, designers, engineers and project managers. Our combination of U.S. based and nearshore team members ensures that we maximize cost efficiencies, that we pass onto our clients.
+P: We’ve tested hundreds of AI development tools so you don’t have to. We layer these with AI agents that we apply based on specific technical and business requirements.
+P: We have reimagined practices and processes to extract the best of what humans do, coupled with what AI can do. The result is a powerful set of methodologies that we apply in customized frameworks based on your organization’s needs.
+P: “Able has helped us improve our process, to bring products to market faster and more efficiently. Their ability to increase our talent density and improve how we work has allowed us to focus on what matters most — growing our business.”
+P: —Blake Clark, CEO
+H3: Create efficiency throughout the software development lifecycle
+P: We are leveraging the power of AI to reimagine how we build products and companies. We help our partners identify opportunities, build roadmaps, and create investment plans to drive growth and reduce costs through AI.
+H3: Innovate effectively and build the right product
+P: Human-centered design with AI has never felt so human. Product strategy is elevated and accelerated.
+P: We believe in technology's power to drive positive change for good. It’s a belief that's been with us since our start in 2013 and continues to guide our work today.
+H2: Our Success Is Defined by the Success of Our Clients
+P: Don’t just take our word for it, read about the value that we create for the companies that trust us with their products.
+H2: Sustainable AI Is Responsible AI
+P: AI is evolving fast. It is a powerful capability, but it needs to be carefully managed and applied to ensure positive outcomes, now and in the future. We’ve introduced protocols into our processes to ensure sustainably optimized practices.
+P: Safeguard AI systems and data with robust protocols to ensure data privacy and integrity.
+P: Adaptable AI solutions are designed to grow seamlessly with your business needs.
+P: Deliver responsible AI that drives sustainable, impactful business results.
+H3: Let’sbuild together.
+P: Join our community of builders and innovators by subscribing to our monthly newsletter #TGIM
+H1: Our Offerings
+P: We’ve pioneered a new framework to deliver efficiency throughout the Software Development Lifecycle.
+H2: Our World-Class Talent Implements AI into Our Workflows to Create Value and Efficiency at Every Step of the Software Development Lifecycle:
+H2: AI Consulting
+P: Gain a clear, AI-enhanced technical direction that aligns with your business strategy and drives tangible results.
+H2: Product Incubation
+P: Get real world user insights in weeks instead of months with a Minimum Testable Product that integrates with your key data and APIs.
+H2: Feature Development
+P: Reduce feature development time by 40% by redistributing the task load between humans, AI agents, and AI tools.
+H2: Quality Assurance
+P: Save up to 70% of the time spent with test creation, test maintenance, and automated test execution with our AI tooling.
+H2: Legacy Modernization
+P: Reduce technical debt by up to 30% through our AI-powered modernization, automated refactoring, and AI-enhanced system performance tooling.
+H2: System Maintenance
+P: Decrease maintenance costs by 40% with Able's AI-enabled refactoring capabilities.
+H2: Security, Transparency and Governance
+P: We prioritize secure, transparent, and governed AI development, embedding emerging best practices and state-of-the-art techniques throughout our ideation and development processes.
+H3: Let’sbuild together.
+P: Join our community of builders and innovators by subscribing to our monthly newsletter #TGIM
+H1: Building for Change Is in Our Roots
+H2: We Build Products to Build a Better Future
+P: Since our inception, our commitment to leveraging technology for positive change has been a backbone of Able’s values. We are fortunate to have forged enduring partnerships with impactful non-profit organizations and companies that share our passion for making a difference beyond profit margins.
+P: This ethos is a fundamental part of our identity and vision. Our journey is a testament to the belief that technology can be a force for good, and our dedication to this principle continues to drive us forward.
+P: “Partnering with Able always feels seamless. They combine technical excellence with a deep understanding and genuine care for our social mission, making them more than just a partner—they’re a critical extension of our team.”
+P: —David Henderson, CTO
+P: The Parker Institute for Cancer Immunotherapy (PICI) brings together Nobel prize-winning scientists, providing them with funding and resources to advance cancer treatment through immunotherapy.
+P: What we’ve built together:Able created a platform for the institute's scientists, helping them to collaborate and share information to contribute to their goal of making cancer a curable disease.
+P: Giving Credit is a social credit network focused on reducing financial exclusion in low-income communities. It brings transparency to informal lending, offers loan guarantees for peer-lenders, and reports loan repayments to credit bureaus, helping reduce reliance on exploitative loans while providing tax deductions for loan losses.
+P: What we’ve built together:We added a system for lenders and borrowers to send and repay money directly on the Giving Credit platform, making it a functional lending tool ready to be integrated with payment platforms like PayPal. We also implemented a reward system using the Giftbit API, enabling cash or gift card rewards without fees to boost participation and move more money to users.
+P: We The Action (WTA) is a small nonprofit established by Marc Elias and Laurene Powell Jobs, aimed at leveraging the expertise of government and philanthropic lawyers to promote a more just and equitable society.
+P: What we’ve built together:Able built a platform connecting pro bono lawyers with nonprofits, which boosted lawyer participation, enhanced volunteer experiences, and amplified WTA's impact.
+P: UpTogether is a community, movement, and platform that supports initiatives in historically undervalued communities to improve lives collectively.
+P: What we’ve built together:We rearchitected their payment platform integrating with new payment providers, improved system observability capturing production issues earlier, and added architecture and design best practices to their process to increase efficiency.
+P: InvestED, a developing non-profit with the aim to empower high school students to make more informed choices as they prepare for, apply to, and choose which college to attend.
+P: What we’ve built together:Able helped them build their first product that used proprietary outcomes and portfolio methodology to scale their intervention program.
+P: Wishbone is a non-profit that enables low-income high school students to experience life-changing summer programs in an effort to bridge the opportunity gap.
+P: What we’ve built together:Able designed and built the platform that connects students with these opportunities. Since 2012, it has helped 2176 students raise $4,158,601 in funding for summer programs.
+H2: Investing in a LATAM workforce
+P: We incubated and launched a school, Codeable, to provide opportunity and career advancement for engineering students in LATAM. Since inception, it has graduated 9 cohorts of students (and counting!) with a 95% job placement rate.
+H3: Let’sbuild together.
+P: Join our community of builders and innovators by subscribing to our monthly newsletter #TGIM
+H1: Privacy Policy
+P: Effective Date: October 1, 2024
+P: At Able, we are committed to protecting your privacy.
+P: This Privacy Policy explains how we collect, use, and safeguard your information when you visit our website. Please read this policy carefully to understand our practices regarding your personal data.
+H2: 1. Information We Collect
+P: We collect both personal and non-personal information from users:
+H2: 2. How We Collect Information
+H2: 3. How We Use Your Information
+P: We use the information we collect for the following purposes:
+H2: 4. Sharing of Information
+P: We do not share your personal information with third parties, except for internal purposes, such as marketing. Your data is used solely to manage communications between you and our team.
+H2: 5. Use of Cookies and Tracking Technologies
+P: Our website uses cookies and analytics technologies to:
+H2: 6. Data Security
+P: We take reasonable measures to protect the personal information you provide to us against unauthorized access or disclosure. However, please note that no data transmission over the internet can be guaranteed to be 100% secure.
+H2: 7. User Rights
+P: You have the right to unsubscribe from our newsletters at any time by following the unsubscribe link included in any email communications. If you wish to delete or modify your personal information, please contact us directly at the email provided below.
+H2: 8. Children's Privacy
+P: Our website is not intended for children under the age of 13, and we do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe we have collected such information, please contact us to have it removed.
+H2: 9. Changes to This Privacy Policy
+P: This privacy policy is effective as of October 1, 2024. We reserve the right to update this policy without notice. Any changes will be reflected on this page.
+H2: 10. Third Party Processors
+P: Our carefully selected partners and service providers may process personal information about you on our behalf as described below:
+H3: Digital Marketing Service Providers
+P: We periodically appoint digital marketing agents to conduct marketing activity on our behalf, such activity may result in the compliant processing of personal information.
+P: Our appointed data processors include:
+P: (i) Prospect Global Ltd (trading as Sopro) Reg. UK Co. 09648733. You can contact Sopro and view their privacy policy here:http://sopro.io. Sopro are registered with the ICO Reg: ZA346877. Their Data Protection Officer can be emailed at:dpo@sopro.io.
+P: (ii) HubSpot: You can contact HubSpot and view their privacy policy here:https://legal.hubspot.com/privacy-policy.
+H2: 11. Contact Us
+P: If you have any questions about this Privacy Policy, please contact us at:contact@able.co.
+H2: 12. Governing Law
+P: This Privacy Policy is governed by the laws of the United States.
+P: By using our website, you consent to our Privacy Policy and the collection and use of your information as described above.
+P: ©2025Able
+P: 44-70 21st Street #1060Queens, NY 11101
+P: Last updated:October 25, 2024
+H3: Let’sbuild together.
+P: Join our community of builders and innovators by subscribing to our monthly newsletter #TGIM
+H1: We Put People First
+H2: One Able, Many Voices
+P: Our team members are distributed across North and South America, but we’re not a U.S. team with near-shore engineering. We’re one flat, integrated team of product professionals in nine countries.
+P: Growth stage children in development
+P: Monopoly Deal games completed
+P: Debates about the merits of different condiments
+H2: We are all builders
+P: We’re a passionate and creative team that likes to work hard and have fun.
+P: If you’re an entrepreneur at heart who gets excited about social change, tinkering on side projects, and mingling with fellow builders, then we’d love to meet you.
+P: “Trust is the glue that binds our team together and enables us to leverage our individual strengths. Able has taught us that regardless of the challenge or complexity, there's nothing we can't achieve together.”
+P: —Oscar Pineda la Serna, Project Manager
+H2: Perks
+P: We succeed when we create the conditions for our team to thrive. In addition to a competitive benefits package we also offer a number of perks:
+P: We have always been and will always be a remote first company. With an office in Lima, Peru,  we welcome those that want to visit but expect our team members to work where they are most comfortable and productive.
+P: We’ve yet to meet someone who misses them.
+P: When Able succeeds, we all succeed. We announce our profitability targets at the beginning of each quarter and share some of those profits when we achieve our goals.
+P: For real. Having full control over your time one day a week is a show of respect and trust. We also invite all our team members to log off at 2pm local time on Fridays, year round.
+P: Monthly stipends to support personal development and health… oh, and to eat mid-day.
+P: It may sound simplistic, but snacks can help unite a distributed team.
+H2: Join us!
+H3: Open Roles:
+P: “Working at Able has allowed me to grow a lot professionally. I've learned new stuff and accepted interesting challenges while helping our teams build great products. But the people at Able, with their incredible support and trust, have helped me grow as a person.”
+P: —Hector Paz, Staff Software Engineer
+H2: Our Company
+P: We’re a distributed team of talented builders united and inspired by the impact of our work.
+P: Years in business
+P: Countries
+P: Partnerships
+H3: Let’sbuild together.
+P: Join our community of builders and innovators by subscribing to our monthly newsletter #TGIM
+H1: Let’s Build Together
+H1: Security, Transparency, & Governance
+P: We prioritize secure, transparent, and governed AI development, embedding emerging best practices and state-of-art techniques throughout our ideation and development processes.
+H2: Security Measures
+P: Data Protection: We use advanced encryption for data at rest (AES-256) and in transit (TLS/SSL). Secure storage solutions and containerized deployments with tools like Docker and Kubernetes ensure robust access controls.
+P: Adversarial Defense: Our models are trained for resilience against malicious inputs using adversarial training techniques, alongside continuous vulnerability scanning.
+P: Secure Deployment: We integrate secure pipelines for deploying AI models, focusing on access control and automated testing to maintain integrity throughout development.
+H2: Transparency and Explainability
+P: Explainable AI: We use techniques like LIME and SHAP to provide insights into model decisions, helping stakeholders understand how models make predictions.
+P: Interpretable Models: For complex deep learning models, we include attention mechanisms and focus on documenting model architecture and data preprocessing for transparency.
+P: Audit Trails: We maintain detailed logs of data handling and model training, enabling full traceability of AI decisions and processes.
+H2: Governance and Ethical AI
+P: Bias Detection and Mitigation: We implement fairness adjustments like re-sampling and re-weighting to reduce bias in models and data, ensuring fair outcomes.
+P: Regulatory Compliance: We adhere to GDPR, CCPA, and other relevant standards, ensuring compliance through regular audits.
+P: Model Governance: Clear guidelines define processes for model validation, approval, and monitoring, with continuous oversight to maintain ethical AI practices.
+P: Continuous Monitoring: Post-deployment, we track model performance to detect concept drift or compliance issues, ensuring models stay aligned with real-world conditions.
+H2: Tools & Technology
+P: LLMs & AI Frameworks
+P: Integration of cutting-edge AI models based on transformers, alongside TensorFlow, PyTorch and LangChain ensures state-of-the-art solutions.
+P: Explainability Libraries
+P: Use of LIME, SHAP, and ELI5 for model transparency.
+P: ModelOps Platforms
+P: Tools like MLflow and Kubeflow enable effective model tracking, versioning, and lifecycle management.
+H3: Let’sbuild together.
+P: Join our community of builders and innovators by subscribing to our monthly newsletter #TGIM
+H1: Our Success Is Defined by the Success of Our Clients
+P: Whether we are building customer facing applications, business user applications, or mobile apps, our singular focus is consistent: delivering consistent value for our clients.
+P: We’ve built our team’s expertise across a wide variety of tech stacks, to ensure seamless speed to value.
+H3: Unlocking Growth and Empowering a Company Exit
+P: Our partner prefers to maintain anonymity due to the private nature of their business relationships.
+P: Able has worked with this mid-market tech company to create operational efficiency through strategic technology consulting, effective product management, and efficient software delivery. This private equity-backed company successfully exited after one year of working with Able.
+P: Impact:Technical improvements to enable a beneficial exit
+H3: Revolutionizing Fundraising Through Generative AI
+P: We addressed critical challenges in campaign fundraising by using AI to take the burden off of team members and allow for more time focused on strategic tasks. In six months we went from discovery to public launch.
+P: Impact:Pre-seed fundraise of $1.2M
+H3: Rethinking Clinical Care for Dementia Patients
+P: We developed a connected system for caregivers to provide holistic, data-driven dementia care. The Harmonic Health platform, aligned with the GUIDE program, integrates EHR and patient data. In just six months, we delivered a HIPAA-compliant MVP that streamlines clinician workflows with intuitive access to patient data and personalized appointment guides, enhancing efficiency and reducing administrative burden.
+P: Impact:MVP in six months
+H3: Technical Strategy and Solutions Enablement to Help Alleviate Poverty
+P: Over the course of two and a half years, our partnership with UpTogether evolved from providing additional engineering capacity to becoming their sole engineering resource and trusted architectural leaders.
+P: Impact:Enhancing processes, technical architecture and code quality to improve time to implement new features and simplify systems maintainability
+H3: Streamlining Value-Based Care Contracts
+P: We built Syntax’s state-of-the-art product to help teams model and negotiate contracts at scale to help focus their expertise on achieving value-based care objectives, improving outcomes, and reducing costs.
+P: Impact:Generating revenue in 11 months
+H3: Taking the Pain Out of Moving
+P: Updater is an invite-only moving app. We dramatically increased their conversions by launching native iOS and Android apps, and optimizing their onboarding flows.
+P: Impact:3X signup conversion rate
+H3: Delivering Employee Benefits
+P: Beanstalk Benefits offers accessible health and lifestyle benefits tailored to individual needs. From the stealth phase, Able collaborated with Beanstalk to translate their vision to the release of a commercially viable product.
+P: Impact:Securing seed and signing first customer in 11 months
+H3: Protecting Civil Rights
+P: Since 2017, we’ve built and innovated a platform that has recruited over 42,000 lawyers interested in advocating for a more equitable, inclusive, and just society.
+P: Impact:$112M in pro bono legal work enabled
+P: “There is enough strategic risk when starting a new company. I wanted flawless execution and Able has delivered.”
+P: —Ravi Mehta, Founder
+H2: Our Partners
+P: We pride ourselves on long-term strategic relationships and prefer to call our clients partners.
+H3: Let’sbuild together.
+P: Join our community of builders and innovators by subscribing to our monthly newsletter #TGIM
+H1: Revolutionizing Fundraising Through Generative AI
+P: Empowering progressive causes for positive change
+P: Visit
+H2: Services offered
+P: AI & LLM Research, Development, and Evaluation; User Research, Rapid Prototyping, Product Design, Technical Strategy, architecture, and full-stack web development; Creation of artifacts: Vision, Proto personas, Service blueprints, Product pillars, MVP roadmap, User flows; Development of custom AI model and beta application
+H2: Outcomes
+H2: The Story
+P: Founded by Mike Nellis, Authentic.org empowers progressive political campaigns through digital marketing and fundraising. To address critical challenges, such as scams and inefficient content generation, Mike envisioned leveraging AI. Partnering with Able in December 2022, the journey to harness AI for positive change began.
+H2: Discovery Phase
+P: Mike and his team embarked on a six-week discovery engagement led by Able, exploring the potential of generative AI to revolutionize political campaign fundraising. Comprehensive AI and LLM research and collaboration with his team of content creators led to the birth of Quiller. A lean proof of concept by Able showcased Quiller's ability to generate impactful fundraising emails, illustrating how AI could streamline campaign communications.
+H2: MVP Phase and Pre-Seed Raise
+P: Encouraged by positive feedback and investor interest, Quiller continued with Able to begin the MVP build phase. The team aimed to launch a robust product by H2 2023, in time for the 2024 election campaigns. In June 2023, Quiller secured a significant $1.2M pre-seed funding, validating its AI-powered fundraising tool and enabling further enhancement.
+H2: Public Launch and Expansion
+P: At Netroots Nation conference, Quiller's public launch was recognized by a "Best New Feature" nomination, acknowledging its impact on empowering progressive causes.
+P: Beyond fundraising emails, Quiller envisions a suite of AI-powered tools tailored for various campaigns and platforms, amplifying their impact. Quiller continues to refine its AI model, embracing cutting-edge technology and user feedback to deliver an ever-improving product.
+H2: Anticipating Transformation
+P: Quiller's innovative AI application has the potential to revolutionize political campaign engagement, addressing challenges and enhancing progressive causes. As Quiller evolves, it leads the charge in a new era of digital fundraising, empowering candidates and organizations to make lasting positive change in society.
+P: Rethinking Clinical Care for Dementia Patients
+H3: Let’sbuild together.
+P: Join our community of builders and innovators by subscribing to our monthly newsletter #TGIM
+H1: Streamlining Value-Based Care Contracting
+P: Accelerating alignment in value-based care contracting for health plans and providers
+P: Visit
+P: Meetsyntax.com
+H2: Services offered
+P: Product Design, Visual Design, Product Strategy, Project Management, Technical Architecture, Software Development, Data Engineering, QA Testing
+H2: Outcomes
+H2: The Partner
+P: Syntax Health, a company conceived and funded by Redesign Health, is the first and only two-sided SaaS solution for Value-Based Care (VBC) modeling and contracting. Redesign Health relies on Able’s partnership to provide their portfolio companies with embedded product design, engineering, and overall business-building support in their early launch phases.
+H2: The Story
+P: Syntax aims to streamline and scale the value-based care contracting process by leveraging analytics, infrastructure, and a collaborative virtual workspace. We built Syntax to help teams model and negotiate value-based care at scale so they can focus their expertise on achieving value-based care objectives, improving outcomes, and reducing costs.
+P: Able joined Syntax's founding team as their product development partner and had a clear mission: to expedite launching a customer-ready, commercially viable product. Our team, comprising design and engineering talent, refined Syntax's product requirements and established a roadmap for delivering an MVP within six months. Our team met this ambitious goal and defined, designed, and developed a production-ready application within the timeframe. This accomplishment enabled Syntax to present a fully functional MVP application to potential customers.
+P: In our second phase of work with Syntax, we successfully developed a customer-ready version of the product and poised the business for scalability. Subsequently, Syntax began acquiring and onboarding its first customers, reaching revenue status in the first 12 months of launch. This remarkable journey spanned 11 months from conceptualization to establishing a fully-fledged, value-generating solution.
+P: —Rachael Jones, CEO of Syntax
+P: The collective achievements of Syntax and Able stand as a testament to our commitment to providing our partners with a concentrated burst of premium product engineering expertise with the shared goal of accelerating the zero-to-market journey with a fixed amount of pre-seed funding.
+P: “Able is a go-to-market cheat code for early founder teams. Without them, we couldn’t have moved this fast (and with such high quality).”
+P: —Will Hudgins, VP of Engineering Syntax
+P: Taking the Pain Out of Moving
+H3: Let’sbuild together.
+P: Join our community of builders and innovators by subscribing to our monthly newsletter #TGIM
+H1: The Future of Employee Benefits Delivery
+P: Revolutionizing healthcare, one custom benefit at a time
+P: Visit
+P: Beanstalkbenefits.com
+H2: Services offered
+P: Product Design, Branding, UI Design, User Testing, Branding Exploration, Technical Architecture, Software Development, QA Testing
+H2: Outcomes
+H2: The Partner
+P: Beanstalk Benefits, a company conceived and funded by Redesign Health, is pushing the boundaries of modern health insurance benefits. Redesign Health relies on Able’s partnership to provide their portfolio companies with embedded product design, engineering, and overall business-building support in their early launch phases.
+H2: The Story
+P: Beanstalk Benefits is creating more accessible health and lifestyle benefits to give people access to options that better fit their needs. Able was handpicked to collaborate with Beanstalk's founding team during their stealth phase, with a clear mission of accelerating the path to launching a customer-ready and commercially viable product. Our design and engineering team swiftly immersed themselves in Beanstalk's product vision, working to translate it into reality.
+H2: The Value We’re Delivering
+P: Through our dedication to providing technical expertise and design excellence, Able remains a committed partner in supporting Beanstalk's quest to revolutionize benefits delivery and ensure long-term industry success.
+P: “We needed to get our MVP in front of prospective customers during our launch phase to maintain critical momentum. Able delivered functionality and fidelity beyond our expectations.”
+P: —Matthew Sydney, CEO of Beanstalk
+P: Protecting Civil Rights
+H3: Let’sbuild together.
+P: Join our community of builders and innovators by subscribing to our monthly newsletter #TGIM
+H1: We The Action: Unlocking the Power of Pro Bono
+P: We built the platform that connects lawyers with the social causes that matter most.
+P: Visit
+P: WeTheAction.org
+P: Election Protection
+H2: Services offered
+P: Product strategy, user research and testing, rapid prototyping, user experience design, visual design, technical strategy and architecture, full-stack web development
+H2: Outcomes
+H2: The Story
+P: In key moments of social and political upheaval, it’s essential to quickly harness the energy and scale of volunteer expertise to respond to the moment. After the 2016 presidential election, We The Action (a nonprofit now part of Civic Nation) formed and partnered with Able to build a platform to do just that.
+P: Nonprofits, often understaffed, don’t have the ability to effectively respond to offers to help, especially during times of social upheaval when hundreds want to get involved. On the other side of the equation, skilled volunteers often don’t know where they should go to help.
+P: WeTheAction.orglaunched in 2017, with the goal of making it easier for nonprofits to quickly structure projects and connect with legal volunteers, and for legal professionals to easily identify the pro bono opportunities that match their experience, interests, and schedule.
+P: Since then, activism in the US has evolved and become an essential part of everyday discourse. In response, we’ve innovated our platform to provide the power of scale, the simplicity of focus, and the network effect of multiple distributed teams working toward a common goal.
+P: The Supreme Court Dobbs Decision.We The Action was built to respond to moments in history like this. The easy to use platform allowed us to quickly onboard new partners as we helped identify impactful ways for volunteer lawyers to ensure that access to safe and effective abortion care remains available to as many people as possible.
+P: The Afghan Refugee Crisis.In 2021 our platform powered the Welcome Legal Alliance's (WLA) effort to recruit lawyers and connect them with the nearly 80,000 Afghan refugees seeking legal assistance.
+P: The 2020 Recount in Georgia.Shortly after the polls closed on election night, we recruited over 250 lawyers to prepare for a recount in Georgia. Our platform helped lawyers see where they were needed, attend a training, and observe the vote tally in 40 counties around Georgia.
+P: Over the last five years, We The Action has built a community of over 43,000 lawyers and over 500 nonprofit partners.The result is $112 million in pro bono legal work delivered toward American democracy’s most pressing issues, and counting.
+P: Unlocking Growth and Empowering a Company Exit
+H3: Let’sbuild together.
+P: Join our community of builders and innovators by subscribing to our monthly newsletter #TGIM
+H1: Updater: An App to Take the Pain Out of Moving
+P: Moving is complicated. We helped build an app for that.
+P: Visit
+H2: Services offered
+P: Product strategy, technical project management, React Native development, user experience audit and design
+H2: Outcomes
+H2: Background
+P: Established in 2010, Updater’s vision is to make moving a frictionless and delightful experience. They deliver this by helping users organize and complete moving-related tasks like booking movers, buying boxes, securing insurance, setting up services like utilities, TV, and internet, and more.
+P: Updater hadn’t built a mobile app because its users weren’t demanding one – historically, Updater found that people weren’t willing to download an app for such a short period of time (while preparing for a move).
+P: But, as the business grew and Updater began to tackle both pre- and post-move needs, the Updater team realized that their reliance on email, SMS, and mobile web could be better complemented with a mobile app. Updater approached Able to help craft and implement a new mobile strategy that would lay a strong foundation for the future and help them engage with users throughout the move journey in a modern way.
+P: Because “moving season” takes place every summer in America and Updater reached out in early Spring, we knew that transitioning user behaviors to the app fast was the key to ensure continuous and increased revenue for moving season. Our strategy prioritized speed over feature expansion to capture revenue and better serve customers when they need Updater the most.
+P: Our development approach applied a hybrid app strategy, leveraging React Native, web wrappers, and web views to create the initial release in less than three months. After launch, we cycled through the app to replace wrappers with native components where we felt the impact justified the effort. We also conducted a thorough UX review and introduced a consistent design system using Updater’s design components.
+P: The success of the initial release and UX enhancements have helped Updater triple its order rates for critical products within the app—a primary driver for their business. The dramatic impact of the work on their bottom line was the validation Updater needed to double-down on the future of their mobile app, and we are looking forward to building more incredible tech as partners.
+P: Delivering Employee Benefits
+H3: Let’sbuild together.
+P: Join our community of builders and innovators by subscribing to our monthly newsletter #TGIM
+H1: Unlocking Growth and Empowering a Company Exit
+P: Delivering strategic technology, process, and organizational execution
+H2: Services offered
+P: AI & LLM Research, Development, and Evaluation; User Research, Rapid Prototyping, Product Design, Technical Strategy, architecture, and full-stack web development; Creation of artifacts: Vision, Proto-personas, Service blueprints, Product pillars, MVP roadmap, User flows; Development of custom AI model and beta application
+H2: Outcomes
+P: Over a 12-month engagement, Able successfully helped move with the client through a transformative period while maintaining business stability.
+P: Key outcomes included:Operational Efficiency: Consolidation of nearly a dozen legacy technology platforms reduced operational costs and improved system performance.Revenue Growth: The client achieved double-digit top-line growth rates through the introduction of new features and enhancements to existing products.
+H2: The Story
+P: As a private equity-backed company, the client experienced significant growth through the acquisition of several complementary companies, teams, and platforms. Over the years, these acquisitions led to a fragmented organizational structure and a diverse technology stack. By 2023, the client recognized the need to consolidate its operations and technology to drive the next phase of growth efficiently. The challenge was to unify these accumulated assets into a cohesive, efficient, and scalable organization and technology ecosystem.
+H2: Discovery Phase
+P: Able conducted an in-depth organizational review and an architectural assessment of the client’s technologies. This phase included:
+P: Organizational AnalysisEngaging with key stakeholders to understand their roles, perspectives, and pain points.
+P: Process MappingDocumenting existing processes and tools to identify redundancies and inefficiencies.
+P: Technology AuditEvaluating the current product technology stack to identify overlaps, gaps, and opportunities for integration.
+H2: Strategic Recommendation
+P: Based on the findings from the discovery phase, Able developed a strategic reorganization plan and a technology consolidation roadmap. Key recommendations included:
+P: Technology ConsolidationCreating a roadmap to unify disparate technology platforms into a single, scalable system.
+P: Product Development Process ImprovementProcess, artifacts, and accountabilities to improve the strategic value of product development, while increasing efficiency.
+P: Growth RoadmapIdentifying key growth initiatives and new value-adding features to enhance the customer experience.
+H2: Implementation Support
+P: Able assembled a specialized support team to embed within the client’s organization, ensuring seamless execution of the transformation plan. The support included:
+P: Requirements DefinitionCreating detailed product designs and meticulously defined user stories that served as the blueprint for engineering tasks, and aligned each project component to the strategic goals.
+P: Engineering ExecutionProviding top-tier engineering resources to assist with architectural definition, platform integration, and feature development to create a robust and scalable technological foundation.
+P: Product LaunchManaging agile development processes and aligning with go-to-market teams to rapidly and efficiently bring new impactful features to the market and drive significant value.
+P: Revolutionizing Fundraising Through Generative AI
+H3: Let’sbuild together.
+P: Join our community of builders and innovators by subscribing to our monthly newsletter #TGIM
+H1: We Built a 0-1 Connected System to Provide Holistic Care for Dementia Patients
+P: Building a connected system to holistically care for dementia patients
+P: Visit
+P: Harmonichealth.com
+H2: Services offered
+P: Product Strategy, MVP Roadmap Development, UX Strategy, UI Design, Technical Strategy, Scalable Microservices Architecture, EHR Data Management, Software Development, QA Testing, HIPAA Compliant Infrastructure and Data Security, & FHIR Data Interoperability.
+H2: Outcomes
+P: All data shown is illustrative.
+H2: The Story
+P: Harmonic Health, a company funded by Redesign Health and born from personal caregiving experiences, is rethinking care for dementia patients by empowering both patients and caregivers throughout their difficult journey. With a commitment to advancing dementia care through a holistic understanding of patient symptoms and coordinated care teams, Harmonic Health utilizes multiple data systems and clinical assessment tools to build comprehensive patient profiles and develop personalized care paths. Redesign Health relied on Able’s partnership to provide embedded product design, engineering, and business-building support to portfolio companies like Harmonic Health during their early launch phases.
+P: All data shown is illustrative. Learn more about our policies aroundSecurity, Transparency, & Governance.
+H2: Partnership with Able
+P: Able worked closely with Harmonic Health’s executive team as their product development partner. Harmonic Health and Able created a clear mission to launch the first version of the product to scale their operations and bring value to their clinicians as quickly as possible.
+P: Our team, comprising of product strategy, design and engineering talent, collaborated closely with Harmonic’s executive and clinical team to translate the vision and care model into product requirements, build-ready designs, an MVP roadmap, a synchronized data system, and support an iterative clinical care model.
+P: Working together, we identified the main product goals and developed the solutions:
+P: Map Patient DataCreate the patient data system by mapping patient data across multiple sources, including the product database, Healthie (EHR), Zus (FHIR), and Awell (assessment tools)
+P: Design PathsBring early value to clinicians by designing intuitive paths to find patient data and customized appointment guides.
+P: Support IterationSupport iteration in the clinical process through integration with automated tools to build and modify care paths with little engineering support.
+P: The work was accomplished through an initial four-week discovery and definition phase, followed by a five-month iterative design and build cycle, to launch a production-ready application within six months. This process enabled Harmonic Health to refine its evolving clinical process and recruit new potential healthcare partners.
+P: Technical Strategy and Solutions Enablement to Help Alleviate Poverty
+H3: Let’sbuild together.
+P: Join our community of builders and innovators by subscribing to our monthly newsletter #TGIM
+H1: Driving Innovation to Break the Cycle of Poverty
+P: How technical strategy and solutions empower systems change
+P: Visit
+H2: Services offered
+P: Full-stack web development, Technical discovery and system audit, Technical strategy, System architecture design.
+H2: Outcomes
+H2: The Story
+P: In October 2021, Able was brought on to support UpTogether’s internal engineering team with specific projects, collaborating with another vendor and the internal team. UpTogether, a platform helping undervalued communities access capital, had operated for over 20 years with minimal focus on technical optimizations. Over time, we became their sole engineering partner, addressing platform-wide projects. In 2023, we conducted a thorough assessment of the software architecture to identify and resolve key system issues.
+H2: Assessment Process
+P: The assessment focused on both backend and frontend solutions, analyzing the breadth of existing Python microservices. Additionally, the AWS architecture, Lambdas, API Gateways, scheduled tasks, event handlers, and RDS instances were evaluated. The assessment relied on:
+P: The assessment was completed by the Tech Lead and a part of the assigned team over the span of three months, as they kept working on new releases and other improvements in parallel.
+H2: Key Findings
+P: We provided several high-level recommendations to enhance system performance and streamline operations. We identified the need for modifications to existing services, such as implementing web-hooks and notifications, and advised the deletion of unused code while emphasizing the importance of following the DRY (Don't Repeat Yourself) principle. Additionally, we suggested better utilization of AWS tools like Cloud Map for service discovery and management. Our recommendations also included adopting best practices for service versioning, dependency management, and security compliance. We conducted an in-depth evaluation of micro-services, highlighting both the benefits and the challenges, including increased operational complexity, data management issues, and communication overhead. As a simpler alternative, we proposed a modular monolith approach, which reduces complexity and streamlines operations. On the front end, we recommended framework updates to achieve a modern stack with less development overhead and advised reducing unnecessary dependencies to further improve efficiency.
+P: Our technical assessment services provide deep insights into your system's architecture and performance, offering tailored recommendations to enhance efficiency and scalability.
+H2: Output
+P: The final delivery defined key findings and recommendations, including a detailed comparison of Microservices, Monolith, and Modular Monolith architectures, tailored for UpTogether. Additionally, a comprehensive architectural visualization of the entire system was provided to support the analysis and proposed solutions.
+P: Streamlining Value-Based Care Contracts
+H3: Let’sbuild together.
+P: Join our community of builders and innovators by subscribing to our monthly newsletter #TGIM
