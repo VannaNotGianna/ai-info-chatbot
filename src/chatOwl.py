@@ -10,11 +10,11 @@ from openai import OpenAI
 from sklearn.feature_extraction.text import TfidfVectorizer
 import creds
 
-# Load API key
+#load api
 load_dotenv()
 client = OpenAI(api_key=creds.apikeysecret)
 
-# Web Scraper
+#Web Scraper
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; MyScraperBot/1.0)"}
 SITEMAP_URL = "https://www.able.co/sitemap.xml"
 
@@ -23,7 +23,7 @@ INDEX_FILE = "data/vector_store.index"
 DOCS_FILE = "data/docs.json"
 RAW_TEXT_FILE = "data/raw_text.json"
 
-# Load or initialize cache
+#load or init cache
 def load_cache():
     if os.path.exists(CACHE_FILE):
         with open(CACHE_FILE, "r", encoding="utf-8") as f:
