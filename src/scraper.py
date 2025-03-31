@@ -28,7 +28,7 @@ def extract_text_from_page(url):
     extracted_data = []
     
     for tag in soup.find_all(["h1", "h2", "h3", "p"]):
-        tag_name = tag.name.upper()  # "H1", "H2", "H3", "P"
+        tag_name = tag.name.upper()  #"H1", "H2", "H3", "P"
         text = tag.get_text(strip=True)
         
         if text:
@@ -47,12 +47,11 @@ def extract_from_site():
         if text_data:
             all_text.extend(text_data)
     
-    # Save as a text file
+    #save as a txt file
     with open("data/raw_text.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(all_text))
 
     print(f"Extracted raw text saved to data/raw_text.txt!")
 
-# Run extraction
 if __name__ == "__main__":
     extract_from_site()

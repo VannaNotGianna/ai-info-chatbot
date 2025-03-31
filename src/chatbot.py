@@ -1,13 +1,13 @@
 import json
 from difflib import get_close_matches
 
-# Load FAQs
+#Load FAQs
 def load_faqs(filepath="data/faqs.json"):
     """Loads FAQ data from a JSON file."""
     with open(filepath, "r", encoding="utf-8") as f:
         return json.load(f)
 
-# Find the best matching question
+#Find the best matching question
 def find_best_answer(user_question, faqs):
     """Finds the closest matching question in the FAQ dataset."""
     questions = [faq["question"] for faq in faqs]
@@ -20,7 +20,6 @@ def find_best_answer(user_question, faqs):
     
     return "I'm not sure about that. Would you like me to connect you to a human?"
 
-# Main chatbot function
 def chatbot():
     """Runs a simple chatbot interface."""
     faqs = load_faqs()

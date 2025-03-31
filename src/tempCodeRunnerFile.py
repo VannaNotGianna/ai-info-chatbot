@@ -1,0 +1,1 @@
+line = re.sub(numbered_list_pattern, "", line)
