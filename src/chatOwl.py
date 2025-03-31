@@ -72,9 +72,10 @@ def scrape_and_save():
         all_data = existing_data + new_data
         with open(RAW_TEXT_FILE, "w", encoding="utf-8") as f:
             json.dump(all_data, f, indent=4, ensure_ascii=False)
-        print("New data scraped and saved!")
+        #print("New data scraped and saved!")
     else:
-        print("No new data found.")
+        pass
+        #print("No new data found.")
 
 def generate_embeddings(texts):
     embeddings = [client.embeddings.create(input=t, model="text-embedding-3-small").data[0].embedding for t in texts]
@@ -92,9 +93,10 @@ def build_vector_store():
         if new_embeddings.shape[0] > 0:
             index.add(new_embeddings)
             faiss.write_index(index, INDEX_FILE)
-            print("FAISS index updated with new data!")
+            #print("FAISS index updated with new data!")
         else:
-            print("No new data to update FAISS index.")
+            pass
+            #print("No new data to update FAISS index.")
     else:
         embeddings = generate_embeddings(texts)
         index = faiss.IndexFlatL2(embeddings.shape[1])
@@ -105,6 +107,13 @@ def build_vector_store():
     with open(DOCS_FILE, "w", encoding="utf-8") as f:
         json.dump(docs, f, indent=4)
     print("Document store updated!")
+
+def dynamic_k_selection(distances, max_k=10, threshold=0.5):
+    """Dynamically determines k based on FAISS distance scores."""
+    for i, score in enumerate(distances[0]):
+        if score > threshold:  # if similarity drops below threshold, stop
+            return max(1, i)  #return at least 1 document
+    return min(len(distances[0]), max_k)  #return max maxk predefined
 
 def query_chatbot(question):
     cache = load_cache()
@@ -121,12 +130,16 @@ def query_chatbot(question):
         dtype=np.float32
     )
     
-    D, I = index.search(question_embedding, k=3)
-    if D[0][0] > 1.0:
+    max_k = 10  #max k
+    D, I = index.search(question_embedding, max_k)  #searching
+
+    optimal_k = dynamic_k_selection(D, max_k=max_k, threshold=0.5)  # Adaptive k selection
+
+    if optimal_k == 0:  #no good matches
         return "I couldn't find an exact answer on Able's website, but I can try to help! Could you clarify?"
-    
-    context = "\n".join([docs[i]["content"] for i in I[0]])
-    
+
+    context = "\n".join([docs[i]["content"] for i in I[0][:optimal_k]])  # Use only optimal_k docs
+
     prompt = f"""
     You are a helpful assistant. Answer the following question based on the provided context:
     Context: {context}
@@ -140,6 +153,7 @@ def query_chatbot(question):
     cache[question] = response
     save_cache(cache)
     return response
+
 
 if __name__ == "__main__":
     scrape_and_save()
