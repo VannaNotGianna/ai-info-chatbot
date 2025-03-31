@@ -9,12 +9,17 @@ from dotenv import load_dotenv
 from openai import OpenAI
 from sklearn.feature_extraction.text import TfidfVectorizer
 import creds
+import os
 
-#load api
+
+#openai api setup
 load_dotenv()
-client = OpenAI(api_key=creds.apikeysecret)
+dotenv_path = os.path.join(os.path.dirname(__name__), "src", ".env")
+load_dotenv(dotenv_path)
+api_key = os.getenv("API_KEY")
+client = OpenAI(api_key=api_key)
 
-#Web Scraper
+#web scrapper setup
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; MyScraperBot/1.0)"}
 SITEMAP_URL = "https://www.able.co/sitemap.xml"
 
@@ -23,7 +28,7 @@ INDEX_FILE = "data/vector_store.index"
 DOCS_FILE = "data/docs.json"
 RAW_TEXT_FILE = "data/raw_text.json"
 
-#load or init cache
+#cache
 def load_cache():
     if os.path.exists(CACHE_FILE):
         with open(CACHE_FILE, "r", encoding="utf-8") as f:
